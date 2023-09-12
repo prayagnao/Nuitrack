@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/prayag/Desktop/NewApp/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/usr/local/lib/nuitrack -isystem /usr/local/include/opencv4 -g -o CMakeFiles/NewApp.dir/NewApp.cpp.o -c /home/prayag/Desktop/NewApp/NewApp.cpp",
+  "file": "/home/prayag/Desktop/NewApp/NewApp.cpp"
+}
+]
