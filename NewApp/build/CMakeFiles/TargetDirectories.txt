@@ -1,0 +1,3 @@
+/home/prayag/Desktop/NewApp/build/CMakeFiles/edit_cache.dir
+/home/prayag/Desktop/NewApp/build/CMakeFiles/rebuild_cache.dir
+/home/prayag/Desktop/NewApp/build/CMakeFiles/NewApp.dir
